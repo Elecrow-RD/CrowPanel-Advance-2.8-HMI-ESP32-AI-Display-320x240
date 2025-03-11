@@ -81,11 +81,11 @@
 
 
 
-cfg.pin_sclk = 42;  // SPIのSCLK
+cfg.pin_sclk = 42;  // SPI、SCLK
 
-cfg.pin_mosi = 39;  // SPIのCLK
+cfg.pin_mosi = 39;  // SPI、CLK
 
-cfg.pin_miso = -1;  // SPIのMISO
+cfg.pin_miso = -1;  // SPI、MISO
 
 cfg.pin_dc = 41; 
 
