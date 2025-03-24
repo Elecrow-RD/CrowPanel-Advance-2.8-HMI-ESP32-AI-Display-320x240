@@ -55,7 +55,7 @@
 ### 5,Quick Start
 ### Arduino IDE starts
 
-#### Teaching Case Path：./example/example_code2.4
+#### Teaching Case Path：./example/example_code2.8
 
 1.Download the library files used by this product to the 'libraries' folder.
 
