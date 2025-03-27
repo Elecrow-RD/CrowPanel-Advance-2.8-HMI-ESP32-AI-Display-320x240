@@ -8,6 +8,7 @@
 ### 7,Pin definition
 ### 8,Guidelines for downloading some of the files from the github repository
 
+
 ### 1, Product picture
 
 ![CrowPanel Advance 2.8”HMI AI Display for Meshtastic](https://www.elecrow.com/media/catalog/product/cache/9e67447b006ee4d9559353b91d12add5/e/s/esp32_advance_hmi_02_dis01728a.jpg)
@@ -139,7 +140,7 @@ cfg.pin_dc = 41;
 #define TOUCH_GT911_SCL 16
 #define TOUCH_GT911_SDA 15
 
-### Guidelines for downloading some of the files from the github repository
+### 8,Guidelines for downloading some of the files from the github repository
 
 ##### 1, open the link in your browser: https://downgit.github.io/
 
