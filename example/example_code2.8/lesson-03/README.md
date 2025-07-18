@@ -1,3 +1,5 @@
+# Here is a new program to adjust the backlight (pwn version), which allows you to control the screen brightness by using PWM.
+
 # **The touch screen lights up LED lights example**
 
 This is an example of using the LVGL library to display an icon on the Advance AI screen, and to control the LED light when the icon is pressed.
