@@ -18,6 +18,11 @@
 |      | Hardware | Software | Remark |
 | ---- | -------- | -------- | ------ |
 | 1    | V1.0     | V1.0     | latest |
+| 1    | V1.1     | V1.0     | latest |
+
+### Version update points:
+
+V1.1 upgraded, optimized the amplifier circuit, better sound quality, and use IO21 to control mute. i2s_mic changed to two pins IO9 and IO10 control.
 
 ### 3, product information
 
