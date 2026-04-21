@@ -63,7 +63,7 @@ Only the button component has been updated. All other hardware and I/O pins rema
 | Operating temperature                        | -20~70 °C                                                    |
 | Storage temperature                          | -30~80 °C                                                    |
 | Power Input                                  | 5V/2A, USB or UART terminal                                  |
-| Dimensions                                   | 85.4*58.5/*15.5mm                                            |
+| Dimensions                                   | 85.4\*58.5*15.5mm                                            |
 
 ### 4, Use the driver module
 
