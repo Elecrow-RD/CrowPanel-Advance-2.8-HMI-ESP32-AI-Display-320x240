@@ -1,0 +1,16 @@
+{
+    "idf.portWin": "COM14",
+    "idf.espIdfPathWin": "j:\\wifihalowmodule\\esp-idf\\v5.1.1\\esp-idf",
+    "idf.toolsPathWin": "j:\\wifihalowmodule\\tools",
+    "idf.pythonInstallPath": "j:\\wifihalowmodule\\tools\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32s3"
+    },
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "files.associations": {
+        "setup_i2c.h": "c"
+    },
+    "idf.flashType": "UART"
+}
