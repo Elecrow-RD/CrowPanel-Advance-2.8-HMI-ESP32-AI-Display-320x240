@@ -83,10 +83,12 @@ image:
     id: small_hum
     resize: 50x75
     type: RGB565
+
   - file: "small_logo.png"
     id: small_logo
-    resize: 250x52
+    resize: 200x200
     type: RGB565
+    transparency: chroma_key
   - file: "small_temp.png"
     id: small_temp
     resize: 50x75
