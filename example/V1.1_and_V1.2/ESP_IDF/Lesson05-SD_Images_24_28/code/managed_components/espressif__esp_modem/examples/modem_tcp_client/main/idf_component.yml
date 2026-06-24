@@ -1,5 +1,0 @@
-dependencies:
-  espressif/esp_modem:
-    version: ^1.0.1
-  espressif/mbedtls_cxx:
-    version: '*'

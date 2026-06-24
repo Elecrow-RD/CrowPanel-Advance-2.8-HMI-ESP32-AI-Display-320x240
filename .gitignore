@@ -1,0 +1,11 @@
+# ESP-IDF Automatically Generated Components
+managed_components/
+
+# build 
+build/
+
+# vscode
+.vscode/
+
+# log
+*.log
